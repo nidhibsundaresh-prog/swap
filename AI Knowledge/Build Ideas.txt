@@ -1,4 +1,0 @@
-IDEAS:
- 1. build an ai model that cuts important clips from a video that might reach more people rather than watching the whole video.
- 2. ai model that builds websites, apps without a single line of code, with just basic English
- 3. voice recognition unlock for disabled ppl
